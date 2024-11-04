@@ -21,6 +21,8 @@ markup:
     renderer:
       unsafe: true
 
+canonifyURLs: true
+
 Menus:
   main:
     - identifier: blog
