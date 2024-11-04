@@ -161,8 +161,8 @@ params:
     title: "About Me"
     image: "/images/seri.jpg"
     content: |-
-      データサイエンティスト・AIエンジニアとして，機械学習やLLMを活用した分析・開発に取り組んでいます。また，最近は DevRelと呼ばれるような技術広報活動にも取り組んでいます。
-      業務外では，LLMを活用したAIエージェントやHuman Agent Interaction (HAI) に興味があります。
+      データサイエンティスト・AIエンジニアとして，機械学習やLLMを活用した分析・開発に取り組んでいます．また，最近は DevRelと呼ばれるような技術広報活動にも取り組んでいます．
+      業務外では，LLMを活用したAIエージェントやHuman Agent Interaction (HAI) に興味があります．
 
       I work on development using machine learning and generative AI. I am also involved in DevRel activities. Outside of work, I am interested in AI agents and Human Agent Interaction (HAI) using LLM.
 
