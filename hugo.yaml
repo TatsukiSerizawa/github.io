@@ -1,5 +1,5 @@
-baseURL: https://tatsukiserizawa.github.io/github.io/
-languageCode: "en-us"
+baseURL: https://tatsukiserizawa.github.io/
+languageCode: "ja"
 theme: hugo-profile
 
 outputs:
